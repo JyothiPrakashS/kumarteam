@@ -1,1 +1,4 @@
-//List the files to ignore tracking from git
+#List the files to ignore tracking from git
+
+node_modules
+bower_components
